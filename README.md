@@ -1,5 +1,8 @@
 # vdmark
 
+myNotable：利用AI协助，制作一款方便适合自己习惯的MarkDown编辑阅读器。市面上的MarkDown编辑器都不好用。
+
+基于：
 [vdmark](https://github.com/cedar12/vdmark)是一款桌面端的Markdown编辑器和阅读器，支持所见即所得、即时渲染（类似 Typora）和分屏预览模式。
 
 ---
