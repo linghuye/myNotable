@@ -1,11 +1,11 @@
 # myNotable
 
-**利用AI协助，制作一款方便适合自己习惯的MarkDown编辑阅读器。市面上的MarkDown编辑器都不好用。**
-  +考察Rust的AI编程。
-  +考察AI接手一个项目。
-基于vdmark修改。
-[vdmark](https://github.com/cedar12/vdmark)是一款桌面端的Markdown编辑器和阅读器。
-
+**用AI干脏活累活，基于现有开源项目，定制一个适合自己习惯的MarkDown编辑阅读器。市面上的MarkDown编辑器都不好用。**
+  + 考察Rust的AI编程。
+  + 考察AI接手一个项目。
+  + 基于vdmark修改。
+    
+    [vdmark](https://github.com/cedar12/vdmark)是一款开源的桌面端的Markdown编辑器和阅读器。
 ---
 # 特性
 * 支持三种编辑模式：所见即所得（wysiwyg）、即时渲染（ir）、分屏预览（sv）
@@ -21,10 +21,8 @@
 * 支持置顶窗口
 * Markdown文档打开记录列表
 * 支持Markdown文档导出图片
-
+---
 # 界面
-![](https://cdn.jsdelivr.net/gh/cedar12/picgo@main/images/vdmark.jpg)
-
 ![](https://cdn.jsdelivr.net/gh/cedar12/picgo@main/images/vdmarkdark.jpg)
 ---
 # 鸣谢
