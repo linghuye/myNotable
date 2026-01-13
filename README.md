@@ -1,14 +1,13 @@
-# vdmark
+# myNotable
 
-myNotable：利用AI协助，制作一款方便适合自己习惯的MarkDown编辑阅读器。市面上的MarkDown编辑器都不好用。
-
-基于：
-[vdmark](https://github.com/cedar12/vdmark)是一款桌面端的Markdown编辑器和阅读器，支持所见即所得、即时渲染（类似 Typora）和分屏预览模式。
+**利用AI协助，制作一款方便适合自己习惯的MarkDown编辑阅读器。市面上的MarkDown编辑器都不好用。**
+  +考察Rust的AI编程。
+  +考察AI接手一个项目。
+基于vdmark修改。
+[vdmark](https://github.com/cedar12/vdmark)是一款桌面端的Markdown编辑器和阅读器。
 
 ---
-
 # 特性
-
 * 支持三种编辑模式：所见即所得（wysiwyg）、即时渲染（ir）、分屏预览（sv）
 * 支持大纲、数学公式、脑图、图表、流程图、甘特图、时序图、五线谱、[多媒体](https://ld246.com/article/1589813914768)、语音阅读、标题锚点、代码高亮及复制、graphviz 渲染、[plantuml](https://ld246.com/forward?goto=https%3A%2F%2Fplantuml.com)UML 图
 * 实现 CommonMark 和 GFM 规范
@@ -24,15 +23,11 @@ myNotable：利用AI协助，制作一款方便适合自己习惯的MarkDown编�
 * 支持Markdown文档导出图片
 
 # 界面
-
 ![](https://cdn.jsdelivr.net/gh/cedar12/picgo@main/images/vdmark.jpg)
 
 ![](https://cdn.jsdelivr.net/gh/cedar12/picgo@main/images/vdmarkdark.jpg)
-
 ---
-
 # 鸣谢
-
+[vdmark](https://github.com/cedar12/vdmark)
 [vditor (github.com)](https://github.com/Vanessa219/vditor)
-
 [tauri (github.com)](https://github.com/tauri-apps/tauri)
